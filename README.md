@@ -51,13 +51,61 @@ I care deeply about **writing readable, production-grade code** and building **t
 ## 🛠 Tech Stack
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" /></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /></a>
-  <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" /></a>
-  <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" /></a>
-  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" /></a>
+  <!-- Core Languages -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img   src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/TR/CSS/#css">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- Frameworks & State -->
+  <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://redux.js.org/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://expo.dev/">
+    <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- Backend / Tools -->
+  <a href="https://firebase.google.com/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postman.com/">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- Platforms -->
+  <a href="https://developer.android.com/">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.apple.com/ios/">
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- Stores -->
+  <a href="https://developer.apple.com/app-store/">
+    <img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/console/">
+    <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
+
+
 
 ---
 
