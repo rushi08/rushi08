@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rushi Badheka</h1>
 
 <h3 align="center">
-  React Native Developer • AI-First Mobile Development
+  React Native Developer
 </h3>
 
 <p align="center">
